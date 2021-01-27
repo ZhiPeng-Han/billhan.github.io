@@ -357,8 +357,8 @@ td {
 .site-header .avatar {
   margin-bottom: 5px;
   border-radius: 50%;
-  width: 90px;
-  height: 50px;
+  width: 70px;
+  height: 70px;
 }
 .site-header .site-title {
   font-style: italic;
@@ -981,7 +981,7 @@ td {
 }
 
       .main {
-        max-width: 1400px;
+        max-width: 1200px;
       }
     
       .post-container .post .post-title {
