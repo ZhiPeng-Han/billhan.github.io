@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://zhipenghan.com</id>
+    <title>ZhiPeng Han</title>
+    <updated>2022-11-28T15:15:00.320Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://zhipenghan.com"/>
+    <link rel="self" href="https://zhipenghan.com/atom.xml"/>
+    <subtitle>Find new way</subtitle>
+    <logo>https://zhipenghan.com/images/avatar.png</logo>
+    <icon>https://zhipenghan.com/favicon.ico</icon>
+    <rights>All rights reserved 2022, ZhiPeng Han</rights>
+    <entry>
+        <title type="html"><![CDATA[Synecdoche, Edinburgh CN - Close Studio]]></title>
+        <id>https://zhipenghan.com/post/synecdoche-edinburgh-cn/</id>
+        <link href="https://zhipenghan.com/post/synecdoche-edinburgh-cn/">
+        </link>
+        <updated>2022-10-26T11:45:08.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synecdoche, Edinburgh - Close Studio]]></title>
+        <id>https://zhipenghan.com/post/synecdoche-edinburgh-close-studio/</id>
+        <link href="https://zhipenghan.com/post/synecdoche-edinburgh-close-studio/">
+        </link>
+        <updated>2022-08-19T09:38:30.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRP Draft]]></title>
+        <id>https://zhipenghan.com/post/test/</id>
+        <link href="https://zhipenghan.com/post/test/">
+        </link>
+        <updated>2022-05-29T21:27:12.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FORMING ACCESSIBILITY]]></title>
+        <id>https://zhipenghan.com/post/forming-accessibility/</id>
+        <link href="https://zhipenghan.com/post/forming-accessibility/">
+        </link>
+        <updated>2020-10-09T18:49:21.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modular Community]]></title>
+        <id>https://zhipenghan.com/post/modular-community/</id>
+        <link href="https://zhipenghan.com/post/modular-community/">
+        </link>
+        <updated>2020-06-20T02:15:25.000Z</updated>
+        <summary type="html"><![CDATA[<p>test article</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>test article</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mountain Residential Units]]></title>
+        <id>https://zhipenghan.com/post/mountain-residential-units/</id>
+        <link href="https://zhipenghan.com/post/mountain-residential-units/">
+        </link>
+        <updated>2020-01-31T17:17:56.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinking on a lage scale]]></title>
+        <id>https://zhipenghan.com/post/thinking-on-a-lage-scale/</id>
+        <link href="https://zhipenghan.com/post/thinking-on-a-lage-scale/">
+        </link>
+        <updated>2019-11-15T06:30:52.000Z</updated>
+        <summary type="html"><![CDATA[<p>对建筑学科的一些个人理解</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>对建筑学科的一些个人理解</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KARS CAVE HOUSE]]></title>
+        <id>https://zhipenghan.com/post/kars-cave-house/</id>
+        <link href="https://zhipenghan.com/post/kars-cave-house/">
+        </link>
+        <updated>2018-12-06T02:59:19.000Z</updated>
+        <summary type="html"><![CDATA[<p>internal design</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>internal design</p>
+]]></content>
+    </entry>
+</feed>
